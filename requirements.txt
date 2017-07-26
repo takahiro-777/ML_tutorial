@@ -5,7 +5,6 @@ backports.shutil-get-terminal-size==1.0.0
 bleach==2.0.0
 boto==2.42.0
 bz2file==0.98
-cabocha-python==0.69
 certifi==2017.4.17
 chainer==1.18.0
 click==6.7
@@ -35,7 +34,6 @@ filelock==2.0.10
 Flask==0.12.2
 freezegun==0.3.8
 funcsigs==1.0.2
-functools32==3.2.3.post2
 gensim==2.2.0
 html5lib==0.999999999
 ipaddress==1.0.18
@@ -53,14 +51,11 @@ jupyter-client==5.0.1
 jupyter-console==5.1.0
 jupyter-core==4.3.0
 Keras==2.0.5
-logging==0.4.9.6
 Markdown==2.6.8
 MarkupSafe==1.0
 matplotlib==2.0.2
 mecab-python3==0.7
 mistune==0.7.4
-mock==2.0.0
-MySQL-python==1.2.5
 nbconvert==5.2.1
 nbformat==4.3.0
 networkx==1.11
@@ -108,7 +103,6 @@ smart-open==1.5.3
 SQLAlchemy==1.1.10
 sqlparse==0.1.19
 stripe==1.55.0
-subprocess32==3.2.7
 tensorflow==1.1.0
 terminado==0.6
 testpath==0.3.1
